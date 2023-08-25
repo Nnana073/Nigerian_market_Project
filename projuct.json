@@ -3,28 +3,28 @@
     "name": "Laptop",
     "type": "Hp Pavilion",
     "price": "150,000",
-    "image": ""
+    "image": "PHOTOS/hp pavilion.jpg"
   },
 
   {
     "name" : "rice",
     "type" :  "stallion",
     "price" : "50,000",
-    "image" : ""
+    "image" : "PHOTOS/royal stallion rice.jpg"
   },
 
   {
     "name"  :  "soap",
     "type"  :  "eva",
     "price"  :  "300",
-    "image"  :  ""
+    "image"  :  "PHOTOS/eva soap.jpg"
   },
 
   {
     "name"  :  "bread",
     "type"  :  "semek",
     "price"  :  "300",
-    "image"  :  ""
+    "image"  :  "PHOTOS/semek bread.jpg"
   },
 
 
@@ -39,7 +39,7 @@
     "name"  :  "soap",
     "type"  :  "premier cool",
     "price"  :  "500",
-    "image"  :  ""
+    "image"  :  "PHOTOS/3kg gas cylinder.jpg"
   },
 
 
@@ -47,7 +47,7 @@
     "name"  :  "rice",
     "type"  :  "cap rice",
     "price"  :  "45,000",
-    "image"  :  "rice"
+    "image"  :  "PHOTOS/cap rice.jpg"
   },
 
 
@@ -55,15 +55,15 @@
     "name"  :  "phone",
     "type"  :  "infinix Hot 11",
     "price"  :  "110,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/infinix hot11.jpg"
   },
 
 
   {
     "name"  :  "Laptop",
-    "type"  :  "EliteBook 8640w",
+    "type"  :  "EliteBook 8460w",
     "price"  :  "180,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/hp elitebook 8460w.jpg"
   },
 
 
@@ -71,7 +71,7 @@
     "name"  :  "phone",
     "type"  :  "Techno spark 10",
     "price"  :  "105,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/tecno spark 10.jpg"
   },
 
 
@@ -79,7 +79,7 @@
     "name"  :  "bread",
     "type"  :  "bomb",
     "price"  :  "500",
-    "image"  :  ""
+    "image"  :  "PHOTOS/bomb bread.jpg"
   },
 
 
@@ -87,7 +87,7 @@
     "name"  :  "phone",
     "type"  :  "infinix 12i",
     "price"  :  "98,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/infinix hot12i.jpg"
   },
 
 
@@ -95,7 +95,7 @@
     "name"  :  "soap",
     "type"  :  "lux",
     "price"  :  "700",
-    "image"  :  ""
+    "image"  :  "PHOTOS/lux soap.jpg"
   },
 
 
@@ -103,7 +103,7 @@
     "name"  :  "Gas cylinder",
     "type"  :  "6kg",
     "price"  :  "8,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/6kg gas cylinder.jpg"
   },
 
 
@@ -111,23 +111,16 @@
     "name"  :  "phone",
     "type"  :  "itel p36",
     "price"  :  "70,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/itel p36.jpg"
   },
 
-
-  {
-    "name"  : "laptop",
-    "type"  : "hp 800",
-    "price"  : "145,000",
-    "image"  : ""
-  },
 
 
 {
     "name"  :  "phone",
     "type"  :  "itel S16",
     "price"  :  "50,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/itel s16.jpg"
 },
 
 
@@ -135,7 +128,7 @@
     "name"  :  "laptop",
     "type"  :  "Dell latitude",
     "price"  :  "130,000",
-    "image"  :  ""
+    "image"  :  "PHOTOS/dell latitude.jpg"
 },
 
 
@@ -143,15 +136,15 @@
   "name"  :  "phone",
   "type"  :  "phantom x",
   "price"  :  "98,000",
-  "image"  :  ""
-}
+  "image"  :  "PHOTOS/phantom x.jpg"
+},
 
 
 {
   "name"  :  "phone",
   "type"  :  "itel2160",
   "price"  :  "7,000",
-  "image"  :  ""
+  "image"  :  "PHOTOS/itel2160.jpg"
 },
 
 
@@ -160,7 +153,7 @@
   "name"  :  "phone",
   "type"  :  "techno camon 20",
   "price"  :  "180,000",
-  "image"  :  ""
+  "image"  :  "PHOTOS/camon 20.jpg"
 }
 
 ]
