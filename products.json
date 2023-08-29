@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Laptop",
+    "type": "Hp Pavilion",
+    "price": 15,
+    "image": "hp pavilion.jpg"
+  },
+
+  {
+    "name": "rice",
+    "type": "stallion",
+    "price": 5,
+    "image": "royal stallion rice.jpg"
+  },
+
+  {
+    "name": "soap",
+    "type": "eva",
+    "price": 0.3,
+    "image": "eva soap.jpg"
+  },
+
+  {
+    "name": "bread",
+    "type": "semek",
+    "price": 0.3,
+    "image": "semek bread.jpg"
+  },
+
+  {
+    "name": "Gas Cylinder",
+    "type": "3kg",
+    "price": 10,
+    "image": "3kg gas cylinder.jpg"
+  },
+
+  {
+    "name": "rice",
+    "type": "cap rice",
+    "price": 45,
+    "image": "cap rice.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "infinix Hot 11",
+    "price": 11,
+    "image": "infinix hot11.jpg"
+  },
+
+  {
+    "name": "Laptop",
+    "type": "EliteBook 8460w",
+    "price": 18,
+    "image": "hp elitebook 8460w.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "Techno spark 10",
+    "price": 10,
+    "image": "tecno spark 10.jpg"
+  },
+
+  {
+    "name": "bread",
+    "type": "bomb",
+    "price": 0.5,
+    "image": "bomb bread.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "infinix 12i",
+    "price": 98,
+    "image": "infinix hot12i.jpg"
+  },
+
+  {
+    "name": "soap",
+    "type": "lux",
+    "price": 0.7,
+    "image": "lux soap.jpg"
+  },
+
+  {
+    "name": "Gas cylinder",
+    "type": "6kg",
+    "price": 8,
+    "image": "6kg gas cylinder.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "itel p36",
+    "price": 70,
+    "image": "itel p36.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "itel S16",
+    "price": 5,
+    "image": "itel s16.jpg"
+  },
+
+  {
+    "name": "laptop",
+    "type": "Dell latitude",
+    "price": 13,
+    "image": "dell latitude.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "phantom x",
+    "price": 98,
+    "image": "phantom x.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "itel2160",
+    "price": 7,
+    "image": "itel2160.jpg"
+  },
+
+  {
+    "name": "phone",
+    "type": "techno camon 20",
+    "price": 18,
+    "image": "camon 20.jpg"
+  }
+]
